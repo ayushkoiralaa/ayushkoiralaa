@@ -9,8 +9,6 @@
 - 💬 Ask me about **Startups, MERN stack, product building, and turning ideas into MVPs**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayushkoirala/)  
 - ⚡ Fun fact: **Most of my projects start as “what if…” and end up as full products 🚀**  
-- 👨‍💻 All of my projects: [ayushkoirala.com.np](https://www.ayushkoirala.com.np)  
-- 📝 Articles & thoughts: [blog.ayushkoirala.com.np](https://www.blog.ayushkoirala.com.np)
 
 ---
 
